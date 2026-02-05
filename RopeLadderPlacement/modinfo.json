@@ -1,0 +1,13 @@
+{
+  "type": "code",
+  "modid": "ropeladderplacement",
+  "name": "Rope Ladder Placement",
+  "authors": [
+    "KnewOne"
+  ],
+  "description": "Changes rope ladder placement to allow right clicking to place it. To remove a ladder, interact with any non-rope-ladder item or an empty slot.",
+  "version": "1.0.2",
+  "dependencies": {
+    "game": "1.21.*"
+  }
+}

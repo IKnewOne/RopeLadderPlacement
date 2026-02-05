@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "file": "LadderUtilities.json",
+  "settings": [
+    {
+      "code": "CanPlaceLadderWithRightClick",
+      "ingui": "Can Place Ladder with right click",
+      "type": "boolean",
+      "comment": "",
+      "default": true,
+      "weight": 1
+    },
+    {
+      "code": "CanCollectLadderTopdown",
+      "ingui": "Can Collect Ladders Top-down",
+      "type": "boolean",
+      "comment": "Allows collecting ladders from top",
+      "default": false,
+      "weight": 2
+    }
+  ]
+}
